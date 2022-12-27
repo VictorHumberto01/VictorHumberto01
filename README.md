@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently studying machine learning
 
 </p>
 
