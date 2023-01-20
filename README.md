@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-- 🌱 I’m currently studying Machine learning
+- 🌱 I’m currently studying Machine learning and crying over leetcode problems
 
 </p>
 
