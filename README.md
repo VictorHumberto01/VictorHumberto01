@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-- 🌱 I’m currently studying Machine learning and crying over leetcode problems
-
+- 🌱 I’m currently studying Swift 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
