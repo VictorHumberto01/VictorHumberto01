@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-- 🌱 I’m currently learning **Neural Networks and Swift**
+- 🌱 I’m currently learning Neural Networks and Swift
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
