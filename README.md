@@ -6,10 +6,15 @@
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
-![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Tailwind](https://img.shields.io/badge/CSS-Tailwind-informational?style=flat&logo=tailwindcss&color=06B6D4)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Express](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&color=000000)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624)
+![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&color=000000)
+
+
 
 
 ## About Me 💭
