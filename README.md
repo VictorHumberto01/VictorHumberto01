@@ -23,6 +23,7 @@
 const victor = {
   focus: ["Full Stack Development"],
   currentlyLearning: "Computer Architecture",
+  education: "Computer Science student at IFMG",
   technologies: {
     frontend: ["React", "Next.js", "Tailwind CSS"],
     backend:  ["Typescript", "Express", "MySql", "Postgres", "MongoDB"],
