@@ -6,6 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
 ![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
 ![Next.js](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Express](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&color=000000)
@@ -14,23 +15,20 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624)
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&color=000000)
 
-
-
-
 ## About Me 💭
 
 ```javascript
 const victor = {
   focus: ["Full Stack Development"],
-  currentlyLearning: "Computer Architecture",
+  currentlyLearning: ["Computer Architecture", "Go"],
   education: "Computer Science student at IFMG",
   technologies: {
     frontend: ["React", "Next.js", "Tailwind CSS"],
     backend:  ["Typescript", "Express", "MySql", "Postgres", "MongoDB"],
-    languages: ["JavaScript", "TypeScript", "Python", "C", "C++", "Java", "Swift"],
+    languages: ["JavaScript", "TypeScript", "Python", "C", "C++", "Java", "Swift", "Go"],
     tools: ["Electron", "Linux"],
   },
-  challenge: "Deepening my understanding of computer architecture and low-level systems"
+  challenge: "Deepening my understanding of computer architecture, low-level systems, and Go"
 };
 ```
 
@@ -47,5 +45,5 @@ With a passion for building modern web applications, I'm constantly exploring ne
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHumberto01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Most Used Languages" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHumberto01&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorHumberto01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="VictorHumberto01's GitHub Stats" />
 </div>
