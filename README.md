@@ -28,7 +28,7 @@ const victor = {
     languages: ["JavaScript", "TypeScript", "Python", "C", "C++", "Java", "Swift", "Go"],
     tools: ["Electron", "Linux"],
   },
-  challenge: "Deepening my understanding of computer architecture, low-level systems, and Go"
+  challenge: "Deepening my understanding of computer architecture, low-level systems, and Java"
 };
 ```
 
