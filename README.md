@@ -45,5 +45,5 @@ With a passion for building modern web applications, I'm constantly exploring ne
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHumberto01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Most Used Languages" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHumberto01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="VictorHumberto01's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorHumberto01&theme=tokyonight&show_icons=true&count_private=true" alt="VictorHumberto01's GitHub Stats" />
 </div>
